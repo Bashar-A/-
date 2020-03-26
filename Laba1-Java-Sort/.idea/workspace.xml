@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4763b3fd-d03b-410f-9df6-3188602fadf2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba1-Java-Sort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Sort.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Za9Wopd0WEnn2PTrzwVofJcpKe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Laba1-Java-Sort" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4763b3fd-d03b-410f-9df6-3188602fadf2" name="Default Changelist" comment="" />
+      <created>1585066371835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585066371835</updated>
+      <workItem from="1585066377675" duration="8328000" />
+      <workItem from="1585081797863" duration="1237000" />
+      <workItem from="1585130994184" duration="702000" />
+      <workItem from="1585133740991" duration="751000" />
+      <workItem from="1585142628441" duration="53000" />
+      <workItem from="1585216121162" duration="1894000" />
+      <workItem from="1585220544307" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585068908448">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="414" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.145.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1585068908448" />
+    <state x="740" y="294" key="FileChooserDialogImpl" timestamp="1585142643472">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="294" key="FileChooserDialogImpl/1920.145.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1585142643472" />
+    <state width="1877" height="294" key="GridCell.Tab.0.bottom" timestamp="1585217127930">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="294" key="GridCell.Tab.0.bottom/1920.145.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1585217127930" />
+    <state width="1877" height="294" key="GridCell.Tab.0.center" timestamp="1585217127930">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="294" key="GridCell.Tab.0.center/1920.145.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1585217127930" />
+    <state width="1877" height="294" key="GridCell.Tab.0.left" timestamp="1585217127930">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="294" key="GridCell.Tab.0.left/1920.145.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1585217127930" />
+    <state width="1877" height="294" key="GridCell.Tab.0.right" timestamp="1585217127930">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="294" key="GridCell.Tab.0.right/1920.145.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1585217127930" />
+    <state width="1877" height="363" key="GridCell.Tab.1.bottom" timestamp="1585077807138">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.bottom/1920.145.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1585077807138" />
+    <state width="1877" height="363" key="GridCell.Tab.1.center" timestamp="1585077807138">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.center/1920.145.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1585077807138" />
+    <state width="1877" height="363" key="GridCell.Tab.1.left" timestamp="1585077807138">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.left/1920.145.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1585077807138" />
+    <state width="1877" height="363" key="GridCell.Tab.1.right" timestamp="1585077807138">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.right/1920.145.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1585077807138" />
+    <state x="656" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1585220543962">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="656" y="363" key="com.intellij.ide.util.TipDialog/1920.145.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1585220543962" />
+    <state x="342" y="160" key="new project wizard" timestamp="1585131032501">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="342" y="160" key="new project wizard/1920.145.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1585131032501" />
+  </component>
+</project>

@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4763b3fd-d03b-410f-9df6-3188602fadf2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Laba1-Java-Sort.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Sort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +74,9 @@
       <workItem from="1585142628441" duration="53000" />
       <workItem from="1585216121162" duration="1894000" />
       <workItem from="1585220544307" duration="19000" />
+      <workItem from="1585298312586" duration="38000" />
+      <workItem from="1585506367981" duration="299000" />
+      <workItem from="1585610209939" duration="751000" />
     </task>
     <servers />
   </component>
@@ -93,10 +88,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="414" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.145.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1585068908448" />
-    <state x="740" y="294" key="FileChooserDialogImpl" timestamp="1585142643472">
+    <state x="740" y="294" key="FileChooserDialogImpl" timestamp="1585610786012">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="740" y="294" key="FileChooserDialogImpl/1920.145.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1585142643472" />
+    <state x="740" y="294" key="FileChooserDialogImpl/1920.145.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1585610786012" />
     <state width="1877" height="294" key="GridCell.Tab.0.bottom" timestamp="1585217127930">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -129,13 +124,13 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1877" height="363" key="GridCell.Tab.1.right/1920.145.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1585077807138" />
-    <state x="656" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1585220543962">
+    <state x="656" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1585610210881">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="656" y="363" key="com.intellij.ide.util.TipDialog/1920.145.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1585220543962" />
-    <state x="342" y="160" key="new project wizard" timestamp="1585131032501">
+    <state x="656" y="363" key="com.intellij.ide.util.TipDialog/1920.145.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1585610210881" />
+    <state x="342" y="160" key="new project wizard" timestamp="1585610327072">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="342" y="160" key="new project wizard/1920.145.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1585131032501" />
+    <state x="342" y="160" key="new project wizard/1920.145.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1585610327072" />
   </component>
 </project>

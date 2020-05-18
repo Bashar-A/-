@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09e6e869-2b2e-4be3-8005-5bfd765dc5f5" name="Default Changelist" comment="" />
+    <list default="true" id="09e6e869-2b2e-4be3-8005-5bfd765dc5f5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Laba1-Java-Sort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Laba1-Java-Sort/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba1-Java-Sort/src/com/company/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Laba1-Java-Sort/src/com/company/Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba2-Java-Search/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Laba2-Java-Search/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba2-Java-Search/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Laba2-Java-Search/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +23,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1aiE0wENttSR8sieMTBJrNx3SVa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -29,6 +39,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
@@ -60,6 +71,8 @@
       <option name="presentableId" value="Default" />
       <updated>1587209794896</updated>
       <workItem from="1587209798607" duration="72000" />
+      <workItem from="1587212667241" duration="1036000" />
+      <workItem from="1587221433206" duration="31000" />
     </task>
     <servers />
   </component>
@@ -67,21 +80,29 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1587209872182">
+    <state width="1877" height="247" key="GridCell.Tab.0.bottom" timestamp="1587213719474">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1587209872182" />
-    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1587209872182">
+    <state width="1877" height="247" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1587213719474" />
+    <state width="1877" height="247" key="GridCell.Tab.0.center" timestamp="1587213719474">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1587209872182" />
-    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1587209872182">
+    <state width="1877" height="247" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1587213719474" />
+    <state width="1877" height="247" key="GridCell.Tab.0.left" timestamp="1587213719474">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1587209872182" />
-    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1587209872182">
+    <state width="1877" height="247" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1587213719474" />
+    <state width="1877" height="247" key="GridCell.Tab.0.right" timestamp="1587213719474">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1587209872182" />
+    <state width="1877" height="247" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1587213719474" />
+    <state x="656" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1587221436029">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="656" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1587221436029" />
+    <state x="342" y="145" key="new project wizard" timestamp="1587221464870">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="342" y="145" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1587221464870" />
   </component>
 </project>

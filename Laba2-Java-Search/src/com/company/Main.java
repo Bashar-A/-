@@ -40,13 +40,9 @@ public class Main {
                 System.out.println("Default search time: " + elapsedTime);
 
                 System.out.println("s = array[i], where i =  " + index);
-
-
-
             } catch (Exception e) {
                 System.out.println(e.getMessage());
             }
-
             System.out.println("Enter the element you are looking for (-1 for exit): ");
             input = br.readLine();
             s = Integer.parseInt(input);

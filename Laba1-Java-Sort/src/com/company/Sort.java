@@ -21,21 +21,21 @@ public class Sort {
         QuickSort(array,index + 1, b);
     }
     public static void SelectionSort(int array[], int n) {
-        for (int i = 0; i < n - 1 ; i++){
-            int min = array[i];
-            int index = i;
-            for(int j = i; j < n ; j++){
-                if(min > array[j]) {
-                    min = array[j];
-                    index = j;
+            for (int i = 0; i < n - 1 ; i++){
+                int min = array[i];
+                int index = i;
+                for(int j = i; j < n ; j++){
+                    if(min > array[j]) {
+                        min = array[j];
+                        index = j;
+                    }
                 }
-            }
-            if(index != i){
-                int temp = array[i];
-                array[i] = array[index];
-                array[index] = temp;
-            }
+                if(index != i){
+                    int temp = array[i];
+                    array[i] = array[index];
+                    array[index] = temp;
+                }
 
-        }
+            }
     }
 }

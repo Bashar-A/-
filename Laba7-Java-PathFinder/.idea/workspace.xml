@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb742035-1478-401c-9dfd-359d3143236a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ciS2vNFk3oe0MdoQrR5GKz64YE" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Laba7-Java-PathFinder" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb742035-1478-401c-9dfd-359d3143236a" name="Default Changelist" comment="" />
+      <created>1591009716492</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591009716492</updated>
+      <workItem from="1591009721474" duration="7479000" />
+      <workItem from="1591091635477" duration="14918000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="285" y="237" key="#com.intellij.ide.util.MemberChooser" timestamp="1591103943547">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="285" y="237" key="#com.intellij.ide.util.MemberChooser/-1366.133.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1591103943547" />
+    <state x="445" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1591095407868">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="445" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1366.133.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1591095407868" />
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom" timestamp="1591109017458">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom/-1366.133.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1591109017458" />
+    <state width="1877" height="284" key="GridCell.Tab.0.center" timestamp="1591109017457">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.center/-1366.133.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1591109017457" />
+    <state width="1877" height="284" key="GridCell.Tab.0.left" timestamp="1591109017457">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.left/-1366.133.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1591109017457" />
+    <state width="1877" height="284" key="GridCell.Tab.0.right" timestamp="1591109017457">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="284" key="GridCell.Tab.0.right/-1366.133.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1591109017457" />
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom" timestamp="1591109017450">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom/-1366.133.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1591109017450" />
+    <state width="1877" height="352" key="GridCell.Tab.1.center" timestamp="1591109017450">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.center/-1366.133.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1591109017450" />
+    <state width="1877" height="352" key="GridCell.Tab.1.left" timestamp="1591109017450">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.left/-1366.133.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1591109017450" />
+    <state width="1877" height="352" key="GridCell.Tab.1.right" timestamp="1591109017450">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.right/-1366.133.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1591109017450" />
+    <state x="656" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1591092111226">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="656" y="348" key="com.intellij.ide.util.TipDialog/-1366.133.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1591092111226" />
+    <state x="690" y="290" key="extract.method.dialog" timestamp="1591103455927">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="290" key="extract.method.dialog/-1366.133.1366.738/0.0.1920.1050@0.0.1920.1050" timestamp="1591103455927" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/MapCell.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/company/Point2D.java</url>
+          <line>8</line>
+          <properties class="com.company.Point2D" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
